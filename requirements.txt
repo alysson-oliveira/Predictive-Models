@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+bentoml
+pudantic
+rdkit-pypi
